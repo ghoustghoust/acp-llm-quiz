@@ -1,0 +1,8 @@
+# 小程序运行时数据备份(用户数据/缓存,勿上传)
+backup/
+
+# Node 依赖
+node_modules/
+
+# 测试用的浏览器配置档案
+work/verify/readmeprof/
